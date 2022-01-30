@@ -1,6 +1,6 @@
 ---
 title: "Abschlussartikel – Was habe ich (nicht) gelernt?"
-date: 2022-01-31
+date: 2022-01-30
 ---
 
 So, nun war das Semester auch schon wieder zu Ende. Es ist nun an der Zeit ein Fazit zu ziehen, was mir von diesem Kurs geblieben ist und was ich gerne noch zusätzlich gelernt 
