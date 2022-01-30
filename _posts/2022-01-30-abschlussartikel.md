@@ -28,7 +28,7 @@ Metadaten wurde vor allem OAI-PMH gezeigt, hierzu durften wir auch eine umfassen
 die Metadaten aus der Schnittstelle zu «ernten», damit diese weiterverarbeitet werden können. Damit verbunden ist auch die Konvertierung und die Transformation dieser Metadaten. 
 Für die Konvertierung (Crosswalk) in MARC21-XML, welches in der Praxis häufig als einheitliches Format für alle Metadaten genutzt wird, haben wir MarcEdit kennengelernt. Für die 
 Transformation wurde uns OpenRefine vorgestellt. Zu guter Letzt haben wir noch die Software VuFind kennengelernt, ein Suchsystem, welches für Bibliothekssysteme eingesetzt werden 
-kann und auf Solr, einem weit verbreiteten Suchindex basiert. Wie man also sehen kann, haben wir alles Aspekte des Standbilds abgearbeitet. 
+kann und auf Solr, einem weit verbreiteten Suchindex basiert. Wie man also sehen kann, haben wir alle Aspekte des Standbilds abgearbeitet. 
 
 Abschliessend lässt sich sagen, dass ich mein Wissen in Informatik definitiv erweitern konnte. Gerade der Umgang mit der virtuellen Maschine an sich war eine gute Übung, welche 
 mir auch für das spätere Berufsleben nützlich gewesen sein könnte. Auch bezüglich Archiven und Bibliotheken konnte ich neue Erfahrungen gewinnen, welche interessant waren, auch 
